@@ -10,7 +10,7 @@ description: "Welcome to the home of your new documentation"
 />
 <img
   className="hidden dark:block"
-  src="/images/hero-dark.png"
+  src="images/hero-dark.png"
   alt="Hero Dark"
 />
 
