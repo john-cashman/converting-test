@@ -4,7 +4,6 @@ description: "Welcome to the home of your new documentation"
 ---
 
 <img
-  className="block dark:hidden"
   src="starter-main/images/hero-dark.png"
   alt="Hero Light"
 />
