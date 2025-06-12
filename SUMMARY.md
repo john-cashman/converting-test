@@ -2,11 +2,12 @@
 
 ## Starter Main
 
-* [Development](starter-main/development.md)
+* [Quickstart](README.md)
 * [Index](starter-main/index.md)
-* [Quickstart](starter-main/quickstart.md)
+* [Development](starter-main/development.md)
 
 ## Essentials
+
 * [Code](starter-main/essentials/code.md)
 * [Images](starter-main/essentials/images.md)
 * [Markdown](starter-main/essentials/markdown.md)
