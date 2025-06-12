@@ -2,8 +2,8 @@
 
 ## Starter Main
 
-* [Quickstart](README.md)
-* [Index](starter-main/index.md)
+* [Introduction](README.md)
+* [Quickstart](<README (1).md>)
 * [Development](starter-main/development.md)
 
 ## Essentials

@@ -1,21 +1,20 @@
 ---
-title: 'Quickstart'
-description: 'Start building awesome documentation in under 5 minutes'
+title: Introduction
+description: Welcome to the home of your new documentation
 ---
 
-## Setup your development
+# Introduction
 
-Learn how to update your docs locally and deploy them to the public.
+![Hero Light](starter-main/images/hero-light.png) ![Hero Dark](starter-main/images/hero-dark.png)
 
-### Edit and preview
+### Setting up
 
-  
-  
+The first step to world-class documentation is setting up your editing environments.
 
-### Deploy your changes
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Edit Your Docs</strong></td><td>Get your docs set up locally for easy development</td><td></td><td><a href="https://mintlify.com/docs/quickstart">https://mintlify.com/docs/quickstart</a></td></tr><tr><td><strong>Preview Changes</strong></td><td>Preview your changes before you push to make sure they're perfect</td><td></td><td><a href="https://mintlify.com/docs/development">https://mintlify.com/docs/development</a></td></tr></tbody></table>
 
-## Update your docs
+### Make it yours
 
-Add content directly in your files with MDX syntax and React components. You can use any of our components, or even build your own.
+Update your docs to your brand and add valuable content for the best user conversion.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Add Content With MDX</strong> </td><td>Add content to your docs with MDX syntax.</td><td></td><td><a href="/essentials/markdown.md">/essentials/markdown</a></td></tr><tr><td><strong>Add Code Blocks</strong> </td><td>Add code directly to your docs with syntax highlighting.</td><td></td><td><a href="/essentials/code.md">/essentials/code</a></td></tr><tr><td><strong>Add Images</strong> </td><td>Add images to your docs to make them more engaging.</td><td></td><td><a href="/essentials/images.md">/essentials/images</a></td></tr><tr><td><strong>Add Custom Components</strong> </td><td>Add templates to your docs to make them more reusable.</td><td></td><td><a href="/essentials/reusable-snippets.md">/essentials/reusable-snippets</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Customize Style</strong></td><td>Customize your docs to your company's colors and brands</td><td></td><td><a href="https://mintlify.com/docs/settings/global">https://mintlify.com/docs/settings/global</a></td></tr><tr><td><strong>Reference APIs</strong></td><td>Automatically generate endpoints from an OpenAPI spec</td><td></td><td><a href="https://mintlify.com/docs/api-playground/openapi">https://mintlify.com/docs/api-playground/openapi</a></td></tr><tr><td><strong>Add Components</strong></td><td>Build interactive features and designs to guide your users</td><td></td><td><a href="https://mintlify.com/docs/content/components/accordions">https://mintlify.com/docs/content/components/accordions</a></td></tr><tr><td><strong>Get Inspiration</strong></td><td>Check out our showcase of our favorite documentation</td><td></td><td><a href="https://mintlify.com/customers">https://mintlify.com/customers</a></td></tr></tbody></table>
