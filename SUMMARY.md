@@ -1,69 +1,75 @@
-# Summary
+# Table of contents
+
 ## Overview
-* [Faq](docs/docs/overview/faq.md)
-* [Getting Started](docs/docs/overview/getting-started.md)
-* [Why Argos](docs/docs/overview/why-argos.md)
+
+* [Getting Started](README.md)
+* [Why Argos](overview/why-argos.md)
+* [Faq](overview/faq.md)
 
 ## Quickstart
-* [Cypress](docs/docs/quickstart/cypress.md)
-* [Legacy Storybook](docs/docs/quickstart/legacy-storybook.md)
-* [Next](docs/docs/quickstart/next.md)
-* [Playwright](docs/docs/quickstart/playwright.md)
-* [Puppeteer](docs/docs/quickstart/puppeteer.md)
-* [React Router](docs/docs/quickstart/react-router.md)
-* [Storybook](docs/docs/quickstart/storybook.md)
-* [Webdriverio](docs/docs/quickstart/webdriverio.md)
-* [Zz E2e Tool](docs/docs/quickstart/zz-e2e-tool.md)
+
+* [Cypress](quickstart/cypress.md)
+* [Legacy Storybook](quickstart/legacy-storybook.md)
+* [Next](quickstart/next.md)
+* [Playwright](quickstart/playwright.md)
+* [Puppeteer](quickstart/puppeteer.md)
+* [React Router](quickstart/react-router.md)
+* [Storybook](quickstart/storybook.md)
+* [Webdriverio](quickstart/webdriverio.md)
 
 ## Guides
-* [Build Splitting](docs/docs/guides/build-splitting.md)
-* [Injecting Css](docs/docs/guides/injecting-css.md)
-* [Monitoring Mode](docs/docs/guides/monitoring-mode.md)
-* [Parallel Testing](docs/docs/guides/parallel-testing.md)
-* [Run On Preview Deployment](docs/docs/guides/run-on-preview-deployment.md)
-* [Screenshot Pages Script](docs/docs/guides/screenshot-pages-script.md)
-* [Storybook Story Modes](docs/docs/guides/storybook-story-modes.md)
-* [Viewports](docs/docs/guides/viewports.md)
+
+* [Build Splitting](guides/build-splitting.md)
+* [Injecting Css](guides/injecting-css.md)
+* [Monitoring Mode](guides/monitoring-mode.md)
+* [Parallel Testing](guides/parallel-testing.md)
+* [Run On Preview Deployment](guides/run-on-preview-deployment.md)
+* [Screenshot Pages Script](guides/screenshot-pages-script.md)
+* [Storybook Story Modes](guides/storybook-story-modes.md)
+* [Viewports](guides/viewports.md)
 
 ## Learn
-* [Baseline Build](docs/docs/learn/baseline-build.md)
-* [Github Sso](docs/docs/learn/github-sso.md)
-* [Notifications](docs/docs/learn/notifications.md)
-* [Spend Management](docs/docs/learn/spend-management.md)
-* [Summary Checks](docs/docs/learn/summary-checks.md)
-* [Team Members And Roles](docs/docs/learn/team-members-and-roles.md)
+
+* [Baseline Build](learn/baseline-build.md)
+* [Github Sso](learn/github-sso.md)
+* [Notifications](learn/notifications.md)
+* [Spend Management](learn/spend-management.md)
+* [Summary Checks](learn/summary-checks.md)
+* [Team Members And Roles](learn/team-members-and-roles.md)
 
 ## Flakiness
-* [About Flaky Tests](docs/docs/flakiness/about-flaky-tests.md)
-* [Argos Helpers](docs/docs/flakiness/argos-helpers.md)
-* [Dates](docs/docs/flakiness/dates.md)
-* [Glitches](docs/docs/flakiness/glitches.md)
-* [Wait For Load](docs/docs/flakiness/wait-for-load.md)
+
+* [About Flaky Tests](flakiness/about-flaky-tests.md)
+* [Argos Helpers](flakiness/argos-helpers.md)
+* [Dates](flakiness/dates.md)
+* [Glitches](flakiness/glitches.md)
+* [Wait For Load](flakiness/wait-for-load.md)
 
 ## Sdks
-* [Cli](docs/docs/sdks/cli.md)
-* [Nodejs](docs/docs/sdks/nodejs.md)
+
+* [Cli](sdks/cli.md)
+* [Nodejs](sdks/nodejs.md)
 
 ## Subscription
-* [How To Subscribe](docs/docs/subscription/how-to-subscribe.md)
-* [Invoiced Customers](docs/docs/subscription/invoiced-customers.md)
-* [Manage Subscription](docs/docs/subscription/manage-subscription.md)
-* [Open Source](docs/docs/subscription/open-source.md)
-* [Pricing Plans](docs/docs/subscription/pricing-plans.md)
-* [Usage Monitoring](docs/docs/subscription/usage-monitoring.md)
+
+* [How To Subscribe](subscription/how-to-subscribe.md)
+* [Invoiced Customers](subscription/invoiced-customers.md)
+* [Manage Subscription](subscription/manage-subscription.md)
+* [Open Source](subscription/open-source.md)
+* [Pricing Plans](subscription/pricing-plans.md)
+* [Usage Monitoring](subscription/usage-monitoring.md)
 
 ## Git Providers
-* [Azure Devops](docs/docs/git-providers/azure-devops.md)
-* [Bitbucket Server](docs/docs/git-providers/bitbucket-server.md)
-* [Bitbucket](docs/docs/git-providers/bitbucket.md)
-* [Github Entreprise](docs/docs/git-providers/github-entreprise.md)
-* [Github](docs/docs/git-providers/github.md)
-* [Gitlab Self Managed](docs/docs/git-providers/gitlab-self-managed.md)
-* [Gitlab](docs/docs/git-providers/gitlab.md)
 
+* [Azure Devops](git-providers/azure-devops.md)
+* [Bitbucket Server](git-providers/bitbucket-server.md)
+* [Bitbucket](git-providers/bitbucket.md)
+* [Github Entreprise](git-providers/github-entreprise.md)
+* [Github](git-providers/github.md)
+* [Gitlab Self Managed](git-providers/gitlab-self-managed.md)
+* [Gitlab](git-providers/gitlab.md)
 
 ## Community
-* [About Us](docs/docs/community/about-us.md)
-* [Contact Us](docs/docs/community/contact-us.md)
 
-
+* [About Us](community/about-us.md)
+* [Contact Us](community/contact-us.md)
