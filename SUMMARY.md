@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [Getting Started](README.md)
+* [Getting Started](overview/getting-started.md)
 * [Why Argos](overview/why-argos.md)
 * [Faq](overview/faq.md)
 
