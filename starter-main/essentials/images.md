@@ -39,6 +39,5 @@ Mintlify supports [HTML tags in Markdown](https://www.markdownguide.org/basic-sy
 
 Loads another HTML page within the document. Most commonly used for embedding videos.
 
-```html
+
 <iframe src="https://www.youtube.com/embed/4KzFe50RQkQ"> </iframe>
-```
