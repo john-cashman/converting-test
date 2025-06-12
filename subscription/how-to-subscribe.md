@@ -5,7 +5,7 @@ slug: "/how-to-subscribe"
 
 
 
-# How to subscribe
+# How to subscribe 
 
 Unlock Argos team features with a subscription. Upgrade your existing team or create a new one to access premium capabilities.
 
