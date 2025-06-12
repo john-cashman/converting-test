@@ -1,9 +1,9 @@
 # Table of contents
 
 ## Starter Main
-* [Quickstart](starter-main/quickstart.md)
-* [Development](starter-main/development.md)
-* [Index](starter-main/index.md)
+* [Quickstart](quickstart.md)
+* [Development](development.md)
+* [Index](index.md)
 
 
 ## Essentials
